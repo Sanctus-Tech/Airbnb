@@ -8,7 +8,7 @@ This project analyzes Airbnb listing data in Los Angeles to uncover key insights
 - **Activity in the Last 12 Months** to measure booking trends  
 - **Host Types** (individuals vs. businesses)  
 
-I Used **Excel** to clean this project then used **PostgreSQL** to write the queries and **PowerBI** to visualizes the data.  
+I made use of **Excel** to clean the data then used **PostgreSQL** to write the queries and finalized it with **PowerBI** to visualizes the data.  
 
 ---
 
