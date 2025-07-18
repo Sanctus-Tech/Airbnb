@@ -25,7 +25,7 @@ This project answers critical questions:
 ---
 
 ## **Key Learnings**  
-![Project Visualization](assets\airbnb_analysis.jpeg) 
+
 ### **1. Licensed vs. Unlicensed Listings** 
 - **Finding**: A significant portion of listings lack proper licensing.  
 - **Insight**: Unlicensed listings may undercut legal ones, creating unfair competition.  
